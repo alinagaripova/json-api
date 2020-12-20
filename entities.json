@@ -13,7 +13,11 @@
                     "room": "123"
                 },
                 "area": 134,
-                "unit": "квм"
+                "unit": "квм",
+                "preview_image": {
+                    src: "https://a0.muscache.com/im/pictures/a0316ecb-e49b-4b3a-b6b6-c2876b820e8c.jpg?im_w=720",
+                    alt: "flat on Minskaya street"
+                },
             },
             "relationships": {
                 "type": "agent",
@@ -38,7 +42,11 @@
                     "room": "45"
                 },
                 "area": 34,
-                "unit": "квм"
+                "unit": "квм",
+                "preview_image": {
+                    src: "https://a0.muscache.com/im/pictures/ce6814ba-ed53-4d6e-b8f8-c0bbcf821011.jpg?im_w=720",
+                    alt: "flat on Barabainskaya street"
+                },
             },
             "relationships": {
                 "type": "agent",
@@ -63,7 +71,11 @@
                     "room": "24"
                 },
                 "area": 134,
-                "unit": "квм"
+                "unit": "квм",
+                "preview_image": {
+                    src: "https://a0.muscache.com/im/pictures/ff69ac49-64e7-4f4a-ae2b-ee01163d0790.jpg?im_w=720",
+                    alt: "flat on Lenina street"
+                },
             },
             "relationships": {
                 "type": "agent",
