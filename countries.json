@@ -1,0 +1,57 @@
+[
+  {
+    "id":1,
+    "country":"Россия",
+    "capital": "Москва",
+    "main_image": "https://moslenta.ru/thumb/2560x0/filters:quality(75):no_upscale()/imgs/2019/09/11/10/3557697/f208048568180a1979582025bf9cf5ef1572ea11.jpg"
+  },
+  {
+    "id":2,
+    "country":"Франция",
+    "capital": "Париж",
+    "main_image": "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/d1d6ada8-3935-4e26-9874-5210dc57e4b6/"
+  },
+  {
+    "id":3,
+    "country":"Япония",
+    "capital": "Токио",
+    "main_image": "https://wantsee.world/wp-content/uploads/2020/05/Tokyo-Travel.jpg"
+  },
+  {
+    "id":4,
+    "country":"США",
+    "capital": "Вашингтон",
+    "main_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTxaebUYoL1O-OXzNH-Y-zNILLc9gXXQg_g&usqp=CAU"
+  },
+  {
+    "id":5,
+    "country":"Италия",
+    "capital": "Рим",
+    "main_image": "https://5slov.ru/images/foto/100/76-rim.jpg"
+  },
+  {
+    "id":6,
+    "country":"Китай",
+    "capital": "Пекин",
+    "main_image": "https://tripmydream.cc/travelhub/blog/blog/45/2/block_452.jpg?v5"
+  },
+  {
+    "id":7,
+    "country":"Египет",
+    "capital": "Каир",
+    "main_image": "https://fs.tonkosti.ru/2l/nq/2lnqo9i8xtic80cskc4kk0kw8.jpg"
+  },
+  {
+    "id":8,
+    "country":"ЮАР",
+    "capital": "Кейптаун",
+    "main_image": "https://img.geliophoto.com/capetown/00_capetown.jpg"
+  },
+  {
+    "id":9,
+    "country":"Вкликобритания",
+    "capital": "Лондон",
+    "main_image": "https://avatars.mds.yandex.net/get-zen_doc/151305/pub_5c762a060c6e9900b4b2d688_5c762d2fae526300b31f4227/scale_1200"
+  },
+
+]
