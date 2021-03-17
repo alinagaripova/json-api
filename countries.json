@@ -9,7 +9,8 @@
     "time": "UTC+03:00",
     "coordinates": [55.753, 37.619],
     "money": "RUB",
-    "exchname": "Российский рубль"
+    "exchname": "Российский рубль",
+    "video": "https://www.youtube.com/embed/S_dfq9rFWAE"
   },
   {
     "id":2,
@@ -21,7 +22,8 @@
     "time": "UTC+01:00",
     "coordinates": [48.853, 2.3488],
     "money": "EUR",
-    "exchname": "Евро"
+    "exchname": "Евро",
+    "video": "https://www.youtube.com/embed/UfEiKK-iX70"
   },
   {
     "id":3,
@@ -33,7 +35,8 @@
     "time": "UTC+09:00",
     "coordinates": [35.689, 139.691],
     "money": "JPY",
-    "exchname": "Японская йена"
+    "exchname": "Японская йена",
+    "video": "https://www.youtube.com/embed/yHwp9r2nQXE"
   },
   {
     "id":4,
@@ -45,7 +48,8 @@
     "time": "UTC-05:00",
     "coordinates": [38.895, -77.036],
     "money": "USD",
-    "exchname": "Доллар США"
+    "exchname": "Доллар США",
+    "video": "https://www.youtube.com/embed/c5yvBK5SDWI"
   },
   {
     "id":5,
@@ -57,7 +61,8 @@
     "time": "UTC+01:00",
     "coordinates": [41.891, 12.511],
     "money": "EUR",
-    "exchname": "Евро"
+    "exchname": "Евро",
+    "video": "https://www.youtube.com/embed/oSexfR0Ubzw"
   },
   {
     "id":6,
@@ -69,7 +74,8 @@
     "time": "UTC+08:00",
     "coordinates": [39.907, 116.397],
     "money": "CNY",
-    "exchname": "Китайский юань"
+    "exchname": "Китайский юань",
+    "video": "https://www.youtube.com/embed/PTcftzMt0mE"
   },
   {
     "id":7,
@@ -81,7 +87,8 @@
     "time": "UTC+02:00",
     "coordinates": [30.062, 31.249],
     "money": "ZAR",
-    "exchname": "Египетский фунт"
+    "exchname": "Египетский фунт",
+    "video": "https://www.youtube.com/embed/uRHAqLAL3LI"
   },
   {
     "id":8,
@@ -93,7 +100,8 @@
     "time": "UTC+02:00",
     "coordinates": [-33.925, 18.423],
     "money": "ZAR",
-    "exchname": "Южно-африканский рэнд"
+    "exchname": "Южно-африканский рэнд",
+    "video": "https://www.youtube.com/embed/mvAUbNMogWQ"
   },
   {
     "id":9,
@@ -105,6 +113,7 @@
     "time": "UTC+00:00",
     "coordinates": [51.508, -0.125],
     "money": "GBP",
-    "exchname": "Английский фунт"
+    "exchname": "Английский фунт",
+    "video": "https://www.youtube.com/embed/X8zLJlU_-60"
   }
 ]
